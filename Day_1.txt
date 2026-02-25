@@ -1,0 +1,2 @@
+First day intro of the javascript 
+play game so we can understand the javascript consept 
