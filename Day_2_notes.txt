@@ -1,0 +1,48 @@
+javascript -> INterpreted => the code well be run  realtime so the code well be compile on web.
+whay the javascript created -> to make the static HTML/CSS pages live.
+Dynimically typed-> variable type are determined at the time of execution.
+used of javascript-> 1)Frontend
+                     2)backend (Serverside progming with Nodejs)
+                     3)Mobile apps (react native)
+                     4)Desktop apps ( Electron framework)
+                     5)Games (Web Games)
+
+Note: Their is a no relation betwen java and javascript.
+
+variable => variables are containers that store values
+    Type of variable => 1> let
+                        2> var 
+                        3> const
+                         eg. let fruits = "apple" 
+                                so the let fruits is an declaration/ apple is an in
+
+Variable naming Rules: 
+                      1.Must start with a latter, underscore(_) or $ sign 
+                      2.Cannot start with a number
+                      3.cannot use js keywords like let,var,etc 
+                      4.lt's casesensitive ie. myName != myname 
+                      5.use camelcase coneation: fisetName, StudentAge
+Datatypes 
+    Number--> 
+             1. 25 -> integer
+             2. -5 -> nigitive integer
+             3.NaN -> Not a number
+    
+    String--> 
+             1.representes text data enclosed  in quotes
+             2.single quotes = 'hello world'
+             2.Double quotes = "hello world"
+             3.
+    
+    Boolean-->
+             --so the represent the true or false values
+
+    Null -->
+            -- Null is a special value in javascript that represent empty or value unknown  the value is assigned here is delibrate
+
+    undefined-->
+            -- undefined value is not defined to the variable[declaed but not inihaliyed] the value can be delibrate but its mostly given  by defaut
+            when variable is not defined
+
+Note :- typeof is a keywords determines the Datatypes of the values
+        it's return the type of value 
