@@ -1,0 +1,42 @@
+// Arithematic operator
+
+% ==> modules operator  
+                    --> this operator returan the reminder of devision 
+                    the max of reminder is 3 (0,1,2)
+** ==> Exponential 
+                    --> this operator returns the squar or squar root of the number 
+
+==========================================================================================================
+PEMDAS 
+
+P       ()      prarantaesis
+E       **      Exponential 
+MD      *,/,%   same prioiity evaluated in the order it's written (left to right)
+AS      +,-     same prioiity evaluated in the order it's written (left to right)
+
+==========================================================================================================
+
+example 
+let result = 2 + 3 * (4 - 1 ) / 3 + 5   ==> 10
+let result = 50 / 2 - 10 * 2 + 5 * 3 / 3 ==> 10
+
+
+----------------------------------------------------------------------------------------------------------
+
+so when the one interger and another is string then + operator is coanvert the integer value to string 
+example let a = 1 + "1"  ==> 11
+
+--> so the + is convert the integer to string when we add the string and intager 
+--> But other operator is not do this thay coanvert the string to integer eg. let a = 6  - "2"  ==> 4 
+
+and when the we do sumting like this let a = 6 - "abc" so teh return as a NaN not a number 
+
+
+************************************************************************************************************
+
+Asignment operator 
+
+=
+==
+!=
+
