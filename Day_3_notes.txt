@@ -40,3 +40,24 @@ Asignment operator
 ==
 !=
 
+***************************************************************************************************
+
+
+Comparison operator :--> compare the 2 values and return the Boolean (true or false)
+
+eg. < , >, <=, >=,  ==, ====
+
+== -> compare the value are same or not
+=== -> compare the value and their 
+
+
+Boolean     true        false
+number      1,2,3,4...  0,NaN
+string      "hello",
+
+
+!= -> it's check the value is not equal 
+      if the value is equal then return the false and 
+      if the value is not equal then return the flase
+      
+
