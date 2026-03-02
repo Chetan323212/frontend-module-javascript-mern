@@ -1,0 +1,25 @@
+condition in this class 
+so the if-elase , ealse-if is a condicion statement that work on true or false.
+
+The if statement:-->
+                  the if statement is evaluate the condition () in the paranthese and if the condition is 
+                  true it's execuites the code inside the block.
+
+        syntex:-->
+                    if(condition){  <-- scope
+
+                        block of code;
+                    } 
+
+The else statement:-->
+                    The statement contain an optional else block .if executes if the condition is teru
+                    if the condition is false the else block is execute
+    
+The  else -if statement:-->
+                    The else - if block letsus have multiple condition inside our if statement
+
+*************************************************************************************************************************
+
+'?' ===> ternory operator:-->
+                        syntex;
+                            age(condicion)? consloe.log("true block"):consloe.log("flase block)

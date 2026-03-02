@@ -46,7 +46,7 @@ console.log(parseFloat(number))
 // console.log(3 == "3") // true 
 // console.log(3 === "3") // false
 
-// console.log("" == 0) // empty stirng are allways 0 
+//console.log(" " == 0) // empty stirng are allways 0  //true 
 // console.log("" == 0)
 
 // // string comparisons 
