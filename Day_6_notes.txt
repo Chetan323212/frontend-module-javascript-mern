@@ -1,0 +1,18 @@
+# logical operators
+            |-->operator used ot compare true/flase values
+            |--> Their are 4 logical operators
+                    1) && and
+                    2) ||  or
+                    3) !  Not
+                    4) ?? Nullish
+
+1) || -->   --if Any two values compares thay both should bee flase athorwise the OR operator return the true values
+            --Finds the first true values
+            --evaluate the operator from left to right
+            --for each operand is converted into boolean and if its true it stop and return the values
+            --all are flase it return the false values
+
+2) && -->   --while comparing 2 values if both are true it gives true
+            --
+
+3  ! -->   -- it's convert the true values to false if the values is flase then it's convert into true   
