@@ -87,7 +87,7 @@ for(let i = 1;i<=500;i++){
     }
 
     if(count == 2){
-        break
+        break 
     }
     
 }
