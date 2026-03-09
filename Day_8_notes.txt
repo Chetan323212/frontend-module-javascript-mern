@@ -1,0 +1,25 @@
+Do while loop 
+           ---> it is simlar to while loop except the condition chacking is done at the end another words the body run first and 
+           then we check the condition
+
+           syntex:---->
+                        do{
+                            console.log("body of code")
+                            
+                        }while(condition)
+
+For loop
+            syntex::---->
+                        for(begin ; condition ; step){
+                            loop body
+                        }
+
+            eg:-------->
+                        for(let i = 0; i<3 ; i++){
+                            clg(i)
+                        }
+break & contineu 
+            ---------->  use for controling the iteration of a runing loop
+
+            break:-----> use to break the execution of the loop
+            continue:--> use to skip the particular iteration
