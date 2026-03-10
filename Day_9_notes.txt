@@ -1,0 +1,18 @@
+Function 
+    -----> Syntex
+                    Function functionName(){
+
+                        function body
+                    }
+
+function : function keyword thet tell js to create a function
+functionName: name you give to identify a function(camelcase)
+() --> Hold parameters(gnputs)
+{} -- > function body thet executes whencalld
+
+Note:--> Naming Rules
+                        --> Name should be description.
+                        --> use camelcase.
+                        --> cannot start with a name.
+                        --> cannot cantain space.
+
