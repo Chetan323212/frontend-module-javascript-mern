@@ -1,0 +1,30 @@
+methods and functions are same 
+
+#Array Method 
+1) push 
+2) pop
+3) unsift 
+4) shift
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+push :---> add one or more element at the end of the arry and return the new length 
+pop:-----> reove the last element from an array and return thet element
+shift:---> remove the first element and return the element
+unsift:--> adding the element to begining of an array and return the new lenght 
+
+
+
+
+
