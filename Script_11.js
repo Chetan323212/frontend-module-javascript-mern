@@ -114,9 +114,9 @@
 
 // adding the element to begining of an array and return the new lenght 
 
-let arr = [1,2,3,4,5,6]
-arr.unshift(0); 
+// let arr = [1,2,3,4,5,6]
+// arr.unshift(0); 
 
-let returnElement = arr.unshift(-1)
-console.log(returnElement)
-console.log(arr)
+// let returnElement = arr.unshift(-1)
+// console.log(returnElement)
+// console.log(arr)

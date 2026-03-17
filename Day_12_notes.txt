@@ -1,0 +1,52 @@
+Slice:
+        ---> from an array w/o effecting the origiank array
+        ---> it's an array method used to extract copy elements
+        ---> return a new array
+
+syntex 
+    arr.Slice(start , end )
+
+
+Splice: 
+    --> lt is used to mutate/change the original array 
+    --> it returns an array of remove elements
+
+use:
+ ----> remove elements from array
+ -----> add new elements to an array
+ ------> Replace exesting elements
+ -------> DO all 3 simaltaneosly 
+
+ syntex: 
+        arr.Splice(start index, delete count, item,item2,item3....)
+
+        start index --> start point
+        delete count --> how many elements want to remove
+        item ---------> 
+
+index of(): 
+    ------->return the 1st index at which a given element is found or -1 if not present 
+    syntex: 
+        -----> arr.index of (start point ,from index )
+
+--------------------------------------------------------------------------------------------------
+                index of                            includes                                      
+return value    index or -1                         true / false                                  
+can find nan    no                                   YES                                            
+relaability     less relaable                       more relaible
+use case        to find index                       to see the element is excists
+--------------------------------------------------------------------------------------------------
+
+
+concat()
+ ---->mergs 2 or more array into a new array w/o
+ ------->effecting the original array
+
+ syntex
+    arr.concat(arr1,arr2,arr3.......value1,value2.....)
+
+
+reverse()
+   ------> used to reverse the order of element in an same arrat 
+   syntex: 
+   -------> arr.reverse()
