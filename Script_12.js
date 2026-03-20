@@ -9,7 +9,7 @@
 
 //------------------------------------------------------------------------------------------
 
-//Q1. you are given an array and size write function to splite teh array into given number
+//Q1. you are given an array and size write function to splite the array into given number
 //eg. array = [1,2,3,4,5,6,7,8,9] ,size = 3
 
 
@@ -118,8 +118,26 @@
 // ---------------------------------------------------[reverse()]------------------------------------------------------------------------
 
 
-let arr = [1,2,3,4,5]
-console.log(arr)
-console.log(arr.reverse())
+// let arr = [1,2,3,4,5]
+// console.log(arr)
+// console.log(arr.reverse())
+
+//---------------------------------------------------------------{ Array declearaction method 2}--------------------------------------------------------------------------
+
+// let arr = new Array("Apple" , "Mango" , "Banana")
+// console.log(arr);
+
+
+// let aar2 = new Array(5) //5 empty intems 
+// console.log(aar2)
+
+// let fruits = ["apple" ,"Banana" , "kiwi"]
+// shallow copy
+
+// let fruits2 = fruits
+//fruits and refers to the fruits2 array in heap memory
+// fruits2.splice(1,1,"orange")
+// console.log(fruits2)
+// console.log(fruits)  
 
 

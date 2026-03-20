@@ -50,3 +50,5 @@ reverse()
    ------> used to reverse the order of element in an same arrat 
    syntex: 
    -------> arr.reverse()
+
+

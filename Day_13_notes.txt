@@ -1,0 +1,15 @@
+
+// let fruits = ["apple" ,"Banana" , "kiwi"]
+// shallow copy
+
+// let fruits2 = fruits
+//fruits and refers to the fruits2 array in heap memory
+// fruits2.splice(1,1,"orange")
+// console.log(fruits2)
+// console.log(fruits)  
+
+shallow copy ---> 
+                changes in the copy effect the original array.
+Deep copy ---> 
+            create a new complely new independent struactrue
+            
