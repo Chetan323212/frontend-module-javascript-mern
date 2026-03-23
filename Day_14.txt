@@ -1,0 +1,24 @@
+Topic : ---> variable
+
+ 1) const ---> Const or constants is a unchanging variable.
+          ----> Thay cannot be reassingned. 
+
+Topic ----> Scope
+         ----> the block of code written in b/w {} has block scope
+
+    Type:---> 1)Global
+              2)block
+
+Topic Hoistng :
+          -----> hoisting: when the code is getting executed the declaraction of the variable is taken to the  top of its scops
+
+Note: hoisting is applied on var variable and function 
+
+
+======================================================{ Table }==============================================================================
+keyword             Scop type                 block aware             Redeclare in Samescope        TDZ
+var                 function or Global        No                      Yes                            No(hoisted)    
+let                 block(if,for,while etc)   Yes                     No                             Yes
+const               block                     Yes                     No                             Yes
+==============================================================================================================================================
+
