@@ -1,0 +1,12 @@
+String 
+      --->   string is a text data 
+    ---------> eg let str = "hello"
+      ---------> let str = 'hello'
+special charater
+                1)\n new line 
+                2) \\ backslach
+                3) \',\",\`  quotes
+                4) \t tabs
+
+nots :  all special charater start with \. it's also called "escape charater"
+
