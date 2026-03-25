@@ -34,8 +34,34 @@
 
 //4. Multiplication Table
 // Print the multiplication table of a number n.
-// 👉 Example: n = 3
-let n = 3
-for(let i = 1 ; i <=10 ; i++){
-    console.log(`${n} X ${n} = ${i*n}`)
+// // 👉 Example: n = 3
+// let n = 3
+// for(let i = 1 ; i <=10 ; i++){
+//     console.log(`${n} X ${n} = ${i*n}`)
+// }
+
+//---------------------------------------------------------------------------------
+// 5. Factorial
+// Find the factorial of a number using loop.
+
+// let n = 5
+// let res = 1
+// for(let i = 1; i <= n ; i++){
+//     res *= i
+// }
+// console.log(res)
+
+//----------------------------------------------------------------------------------
+
+// 6. Reverse a Number
+// Reverse a number using loop.
+// 👉 Example: 1234 → 4321
+
+let num = 1234;
+let rev = 0;
+while(num >0){
+    let digit = num%10;
+    rev = rev*10+digit;
+    num = Math.floor(num/10)
 }
+console.log(rev)
