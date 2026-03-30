@@ -1,0 +1,14 @@
+
+
+
+
+
+
+
+split: 
+    ---> let string = "hi.I.am.chetan"
+        string.split(".")  // devaid the element form . and plase it in array
+
+join: 
+    ---> convert the array in to  string
+    

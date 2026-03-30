@@ -1,0 +1,6 @@
+
+Objects: ---> Objects are a data type  in js that stores data in the form of key: value pairs.
+              the key value pare is also known as properties of an Objects.
+
+              
+
